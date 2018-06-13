@@ -1,1 +1,1 @@
-"# API-NodeJS feita como exemplo para quem est  iniciando o aprendizado com node." 
+"# API-NodeJS feita como exemplo para quem esta  iniciando o aprendizado com node. No modelo pode ser encontrado integrações com o banco de dados MySQL , resgate de dados via GET e POST, callbacks , modularizações de rotas, etc. " 
